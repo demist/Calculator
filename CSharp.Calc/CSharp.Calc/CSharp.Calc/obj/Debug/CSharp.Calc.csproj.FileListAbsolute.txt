@@ -1,0 +1,12 @@
+c:\users\nikita\documents\visual studio 2013\Projects\CSharp.Calc\CSharp.Calc\bin\Debug\CSharp.Calc.exe.config
+C:\Users\Nikita\documents\visual studio 2013\Projects\CSharp.Calc\CSharp.Calc\bin\Debug\CSharp.Calc.exe
+C:\Users\Nikita\documents\visual studio 2013\Projects\CSharp.Calc\CSharp.Calc\bin\Debug\CSharp.Calc.pdb
+C:\Users\Nikita\documents\visual studio 2013\Projects\CSharp.Calc\CSharp.Calc\obj\Debug\CSharp.Calc.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\documents\visual studio 2013\Projects\CSharp.Calc\CSharp.Calc\obj\Debug\CSharp.Calc.exe
+C:\Users\Nikita\documents\visual studio 2013\Projects\CSharp.Calc\CSharp.Calc\obj\Debug\CSharp.Calc.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\CSharp.Calc\CSharp.Calc\CSharp.Calc\bin\Debug\CSharp.Calc.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\CSharp.Calc\CSharp.Calc\CSharp.Calc\obj\Debug\CSharp.Calc.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\CSharp.Calc\CSharp.Calc\CSharp.Calc\obj\Debug\CSharp.Calc.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\CSharp.Calc\CSharp.Calc\CSharp.Calc\bin\Debug\CSharp.Calc.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\CSharp.Calc\CSharp.Calc\CSharp.Calc\bin\Debug\CSharp.Calc.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\CSharp.Calc\CSharp.Calc\CSharp.Calc\obj\Debug\CSharp.Calc.csprojResolveAssemblyReference.cache
