@@ -2,8 +2,9 @@
 {
     public class Vector<T>
     {
-        public T[] Data;
-        public int Size;
+        public T[] Data { get; set; }
+        public int Size { get; private set; }
+
         private int _allocatedSize;
         public Vector()
         {

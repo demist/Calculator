@@ -2,8 +2,8 @@
 {
     public class StackNode<T>
     {
-        public T Data;
-        public StackNode<T> Pre;
+        public T Data { get; set; }
+        public StackNode<T> Pre { get; set; }
         public StackNode(T a)
         {
             Data = a;
